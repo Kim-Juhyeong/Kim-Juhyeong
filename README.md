@@ -20,7 +20,7 @@ I am currently enrolled at Chungbuk National University.
 
 
 ### 🏅 Stats
-| ![Readme Card](https://github-readme-stats.vercel.app/api?username=Kim-Juhyeong&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true) | ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Juhyeong&layout=compact&theme=transparent&hide_border=true) |
+| ![Readme Card](https://github-readme-stats.vercel.app/api?username=Kim-Juhyeong) | ![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Juhyeong&layout=compact) |
 | ------------- | ------------- |
 
 
