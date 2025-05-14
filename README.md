@@ -25,6 +25,3 @@ I am currently enrolled at Chungbuk National University.
 
 
 
-#### Repositories
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kim-Juhyeong&repo=Kim-Juhyeong&theme=transparent&hide_border=true)](https://github.com/Kim-Juhyeong/Kim-Juhyeong) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kim-Juhyeong&repo=prac02&theme=transparent&hide_border=true)](https://github.com/Kim-Juhyeong/prac02) |
-| ------------- | ------------- |
