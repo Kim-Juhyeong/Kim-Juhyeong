@@ -25,3 +25,4 @@ I am currently enrolled at Chungbuk National University.
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kim-Juhyeong&layout=compact)
